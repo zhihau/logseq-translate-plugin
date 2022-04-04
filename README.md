@@ -1,7 +1,6 @@
 ## logseq-translate-plugin
 
-This is a logseq translate plugin. I modified from [logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples)
-[npm package google-translate-api-browser].
+This is a logseq translate plugin. 
 
 ### :crossed_swords: Functions
 * Select text to show a translate dialog.
