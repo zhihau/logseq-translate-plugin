@@ -1,6 +1,7 @@
 ## logseq-translate-plugin
 
-This is a logseq translate plugin. 
+  - This is a logseq translate plugin. 
+  - Read more [How to develop logseq plugins?](https://zhihaushiu.medium.com/how-to-develop-logseq-plugins-919b621cb8d4?sk=c80eaffae924af64bfdb863f1a1bcce2)
 
 ### :crossed_swords: Functions
 * Select text to show a translate dialog.
